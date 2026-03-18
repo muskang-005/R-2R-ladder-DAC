@@ -33,7 +33,7 @@ Figure: R-2R ladder DAC circuit
 - Each bit contributes to the output voltage.
 - The op-amp sums and amplifies the output.
 - Final output is an analog voltage proportional to the digital input.
-- 
+  
 ## Results
 - Different digital inputs produce different analog voltages.
 - Output voltage changes proportionally with binary input.
