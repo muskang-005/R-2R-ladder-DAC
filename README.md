@@ -23,7 +23,7 @@ Digital systems work with binary values (0 and 1), but real-world signals are an
 - Multimeter (for output measurement)
 
 ## Circuit Design
-![Circuit](images/dac_circuit.png)
+![Circuit](R2R ladder DAC.png)
 
 Figure: R-2R ladder DAC circuit
 
