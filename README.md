@@ -44,5 +44,5 @@ This project shows how digital signals can be converted into analog using an R-2
 
 ## Future Scope
 - Increase number of bits for better accuracy
-- Implement using microcontroller
+- Implementation using microcontroller
 - Use in audio signal applications
